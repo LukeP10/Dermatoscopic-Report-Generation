@@ -1,0 +1,15 @@
+numpy
+pandas
+torch
+transformers
+bitsandbytes
+accelerate
+peft
+trl
+rouge-score
+Pillow
+matplotlib
+huggingface-hub
+google-colab
+tokenizers
+sentencepiece
